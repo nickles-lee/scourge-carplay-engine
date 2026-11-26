@@ -1,3 +1,9 @@
+> **SCOURGE fork (Gen5W, WIP):** this branch targets Ioniq 5 Gen5W head units
+> with glibc 2.25 and GStreamer 1.8.3. It is not a finished or car-validated
+> port. Build notes, the ABI gate and the media-process split are in
+> [`native/scripts/gen5w/README.md`](native/scripts/gen5w/README.md). The
+> upstream project and its GPL-3.0-or-later terms remain in force.
+
 <p align="center">
   <img alt='LIVI' src='docs/media/banner.png' width="1200" />
 </p>
